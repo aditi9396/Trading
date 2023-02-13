@@ -1,0 +1,1 @@
+<img src="<?php echo base_url('assets/city-6328941_1280.jpg'); ?>" alt="">
